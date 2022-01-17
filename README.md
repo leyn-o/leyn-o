@@ -9,7 +9,8 @@ I am seeking to deepen my programming skills as a profession in a permanent empl
 
 
 ### dev
-| | |
+*skills are emphasised based on background color difference*
+|  |  |
 |:-----|:-----|
 | Languages | ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4089a3) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4089a3) ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=bad2d4) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=bad2d4)|
 | Mobile | ![](https://img.shields.io/badge/Framework-Android_SDK-informational?style=flat&logo=android&logoColor=white&color=4089a3) ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=bad2d4) |
